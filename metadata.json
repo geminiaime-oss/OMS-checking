@@ -1,0 +1,6 @@
+{
+  "name": "Custom Order Management System",
+  "description": "A tailored OMS with Supabase backend, real-time order tracking, phone normalization, and courier service integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
